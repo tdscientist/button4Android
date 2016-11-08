@@ -1,0 +1,84 @@
+body {
+    background: #f5f5f5;
+}
+
+footer {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: blue;
+    text-align: center;
+}
+
+footer small a {
+    color: #7AA7CF;
+}
+
+
+
+#android-button{
+    width: 200px;
+    height: 40px;
+    background: #757575;
+    border-radius: 5px;
+    margin: 0 auto 20px;
+    position: relative;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .12), 0 1px 2px rgba(0, 0, 0, .24);
+}
+
+#android-button-pressed{
+    width: 200px;
+    height: 40px;
+    background: #565656;
+    border-radius: 5px;
+    margin: 0 auto 20px;
+    position: relative;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .12), 0 1px 2px rgba(0, 0, 0, .24);
+}
+
+#main-container {
+    position: relative;
+    background: #ffffff;
+    box-shadow: 0 1px 16px silver;
+    min-height: 550px;
+}
+
+#header {
+    background: #FFE0B2;
+    color: #FB8C00;
+    padding: 16px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+#header img{
+    margin-right: 16px;
+    margin-top: -14px;
+    margin-left: -14px;
+}
+
+#mainrow {
+    padding-top: 20px;
+}
+
+#canvascol {
+    overflow: auto;
+}
+
+#header h3 {
+    margin: 0;
+}
+
+.panel-body {
+    background: #fafafa;
+}
+
+.panel-body > .form-group {
+    margin-top: 8px;
+}
+
+.panel-heading {
+    cursor: pointer;
+}
+.panel-body {
+    padding: 0 15px 0 15px !important;
+}
