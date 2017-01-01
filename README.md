@@ -5,6 +5,8 @@ Generate android button selectors for various states
 * round corners
 * flat/bevelled surface
 
+![Alt text](/screenshot.gif?raw=true "Screenshot" width=100) 
+
 
 ## How to use ##
 visit https://tdscientist.github.io/button4Android
