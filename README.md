@@ -5,7 +5,7 @@ Generate android button selectors for various states
 * round corners
 * flat/bevelled surface
 
-![Alt text](/screenshot.gif?raw=true "Screenshot" width=100) 
+<img src="/screenshot.gif" width="900">
 
 
 ## How to use ##
