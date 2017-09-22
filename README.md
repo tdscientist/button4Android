@@ -32,3 +32,4 @@ mail me at tdscientist@gmail.com
 - [x] selected state
 - [ ] disabled state
 - [ ] focused state
+- [ ] Chrome plugin
